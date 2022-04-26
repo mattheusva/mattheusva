@@ -9,6 +9,7 @@ Além de me intessar por tecnologia eu também tenho experiência em comunicaç�
 <div>
 <a href="https://instagram.com/eu_matheusvargas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:matheusvargas042@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/_matheusva" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
