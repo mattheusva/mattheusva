@@ -4,7 +4,7 @@ Full-Stack Dev student.
 
 Eu tenho aprimorado as minhas habilidades com diversos cursos da [Alura](https://www.alura.com.br) e [Udemy](http://www.udemy.com).
 
-Além de me intessar por tecnologia eu também tenho experiência em comunicação, mais especificamente, jornalismo e assessoria de imprensa.
+Além de me intessar por tecnologia eu também tenho experiência com jornalismo.
 
 <div>
 <a href="https://instagram.com/eu_matheusvargas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
