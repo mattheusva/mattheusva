@@ -1,6 +1,6 @@
-### Hello World! 👋 Welcome to my Github!
+### Hey, I'm Matheus and welcome to my github!
 
-Meu nome é Matheus e estou estudando para me tornar um desenvolvedor Full-Stack.
+Full-Stack Dev student.
 
 Eu tenho aprimorado as minhas habilidades com diversos cursos da [Alura](https://www.alura.com.br) e [Udemy](http://www.udemy.com).
 
