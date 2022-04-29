@@ -2,9 +2,9 @@
 
 Full-Stack Dev student.
 
-Eu tenho aprimorado as minhas habilidades com diversos cursos da [Alura](https://www.alura.com.br) e [Udemy](http://www.udemy.com).
+Migrando do jornalismo para TI.
 
-Além de me intessar por tecnologia eu também tenho experiência com jornalismo.
+Eu tenho aprimorado as minhas habilidades com diversos cursos da [Alura](https://www.alura.com.br) e [Udemy](http://www.udemy.com).
 
 <div>
 <a href="https://instagram.com/eu_matheusvargas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
