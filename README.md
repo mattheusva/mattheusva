@@ -1,10 +1,10 @@
 ### Hey, I'm Matheus and welcome to my github!
 
-On a journey to be a fullstack developer.
-
 Migrating from journalism to tech.
 
-I have been improving my dev skills with many [Alura](https://www.alura.com.br) and [Udemy](http://www.udemy.com) courses.
+I'm interested in back-end and front-end programming with JavaScript and Python, as well as information security.
+
+I have been improving my skills with [Alura](https://www.alura.com.br) and [Udemy](http://www.udemy.com) courses.
 
 <div>
 <a href="https://instagram.com/eu_matheusvargas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
