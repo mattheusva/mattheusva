@@ -2,7 +2,7 @@
 
 Migrating from journalism to tech.
 
-I'm interested in back-end and front-end programming with JavaScript and Python, as well as information security.
+I'm interested in back-end and front-end programming with JavaScript and Python, as well as Information Security and DevOps.
 
 I have been improving my skills with [Alura](https://www.alura.com.br) and [Udemy](http://www.udemy.com) courses.
 
