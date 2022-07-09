@@ -2,11 +2,12 @@
 
 Migrating from journalism to tech.
 
-I'm interested in back-end and front-end programming with JavaScript and Python, as well as Information Security and DevOps.
+I'm interested in programming with JavaScript and Python, as well as Information Security and DevOps ecosystem.
 
-I have been improving my skills with [Alura](https://www.alura.com.br) and [Udemy](http://www.udemy.com) courses.
+Currently studying with courses from [Alura](https://www.alura.com.br) and [Udemy](http://www.udemy.com).
 
 <div>
+<a href="https://www.linkedin.com/in/matheus-vargas-013055215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&" target="_blank"></a>
 <a href="https://instagram.com/eu_matheusvargas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:matheusvargas042@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/_matheusva" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
