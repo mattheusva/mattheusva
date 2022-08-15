@@ -1,6 +1,6 @@
 ### Hey, I'm Matheus and welcome to my github!
 
-Migrating from journalism to tech.
+I'm a former Journalism student, learning to code.
 
 I'm interested in programming with JavaScript, Python, and Golang, as well as Information Security.
 
