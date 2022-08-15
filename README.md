@@ -2,7 +2,7 @@
 
 Migrating from journalism to tech.
 
-I'm interested in programming with JavaScript and Python, as well as Information Security and DevOps ecosystem.
+I'm interested in programming with JavaScript, Python, and Golang, as well as Information Security and DevOps ecosystem.
 
 Currently studying with courses from [Alura](https://www.alura.com.br) and [Udemy](http://www.udemy.com).
 
