@@ -2,7 +2,7 @@
 
 I'm a former Journalism student, learning to code.
 
-I'm interested in programming with JavaScript, Python, and Golang, as well as Information Security.
+I'm interested in programming with JavaScript, Python, as well as Information Security.
 
 Currently studying with courses from [Alura](https://www.alura.com.br) and [Udemy](http://www.udemy.com).
 
