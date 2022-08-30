@@ -2,7 +2,7 @@
 
 I'm a former Journalism student, learning to code.
 
-I'm interested in programming with JavaScript and Python, as well as Information Security.
+I'm interested in programming with JavaScript and Python, as well as Web Development, Data Engineering, Cloud Computing, and Information Security.
 
 Currently studying with courses from [Alura](https://www.alura.com.br) and [Udemy](http://www.udemy.com).
 
@@ -15,7 +15,7 @@ Currently studying with courses from [Alura](https://www.alura.com.br) and [Udem
 
 <br>
 
-## :books: Learning:
+## :books: Studying:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
