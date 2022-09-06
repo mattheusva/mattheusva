@@ -1,8 +1,8 @@
 ### Hey, I'm Matheus and welcome to my github!
 
-I'm a former Journalism student, learning to code.
+I'm a Copywriter with experience in press release, learning about software development mainly focus on the backend.
 
-I'm interested in programming with JavaScript and Python, as well as Web Development, Data Engineering, Cloud Computing, and Information Security.
+I'm interested in Web Development, Data Engineering, Cloud Computing, and Cybersecurity.
 
 Currently studying with courses from [Alura](https://www.alura.com.br) and [Udemy](http://www.udemy.com).
 
