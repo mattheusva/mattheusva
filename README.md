@@ -2,7 +2,7 @@
 
 I'm a Copywriter with experience in press release, learning about software development.
 
-I'm interested in Web Development (Frontend, Backend) and Information Security.
+I'm interested in Web Development (frontend, backend) and Information Security.
 
 Currently studying with courses from [Alura](https://www.alura.com.br) and [Udemy](http://www.udemy.com).
 
