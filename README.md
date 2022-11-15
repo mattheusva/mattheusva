@@ -2,8 +2,6 @@
 
 I'm a Copywriter with experience in press release, learning about software development.
 
-I'm interested in Web Development (frontend, backend) and Information Security.
-
 Currently studying with courses from [Alura](https://www.alura.com.br) and [Udemy](http://www.udemy.com).
 
 ## Reach me on:
@@ -20,7 +18,7 @@ Currently studying with courses from [Alura](https://www.alura.com.br) and [Udem
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
           
 <br>
