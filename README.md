@@ -4,8 +4,7 @@ Student of Systems Analysis and Development; currently in career transition. Cer
 
 I have a background in Journalism, where I worked with press relations for two years and I seek to reconcile my passion for writing with my enthusiasm for technology.
 
-I have some projects in conjunction with the courses I've taken and I've been studying programming for about a year, including front-end with JavaScript and React, 
-back-end with Python and Node.js. I'm also interested in Flutter and infra-as-code with Terraform.
+I have some projects in conjunction with the courses I've taken and I've been studying programming for about a year, including JavaScript, Python, Flutter, Cloud Computing and Containers.
 
 ## Reach me on:
 <div>
