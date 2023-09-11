@@ -1,10 +1,10 @@
 ### Hey, I'm Matheus and welcome to my github!
 
-Student of Systems Analysis and DevelopmenT.
+Student of Systems Analysis and Development.
 
 I have a background in Journalism, in which I was able to work with the press office in the City Hall of my city. After two years as a Journalism intern, I improved my communication skills, especially writing
 
-In 2021, I started studying software development, looking to combine my communication skills with an old passion for technology. I have some projects in conjunction with the courses I've taken and I've been studying programming for about a year, including JavaScript, Python, Flutter, Cloud Computing and Containers.
+In 2021, I started studying software development, looking to combine my communication skills with an old passion for technology. I have some projects in conjunction with the courses I've taken and I've been studying programming for about a year, including JavaScript, Python, Flutter, Cloud and Containers.
 
 ## Reach me on:
 <div>
