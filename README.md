@@ -11,16 +11,15 @@ In 2021, I started studying software development, looking to combine my communic
 <a href="https://www.linkedin.com/in/matheus-vargas-013055215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&" target="_blank"></a>
 <a href = "mailto:matheusvargas042@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
 <br>
 
-## 👨‍💻 Skills:
+## 👨‍💻 Technologies:
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="JS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/>&nbsp;
+<img align="center" title="JavaScript" alt="JavaScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
+<img align="center" title="Flutter" alt="Flutter" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+<img align="center" title="Python" alt="Python" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img align="center" title="Docker" alt="Docker" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+<img align="center" title="AWS" alt="AWS" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
           
 <br>
