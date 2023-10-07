@@ -2,9 +2,9 @@
 
 Systems Analysis and Development student.
 
-I have a background in Journalism, in which I was able to work with the press office in the City Hall of my city. After two years as a Journalism intern, I improved my communication skills, especially writing
+I have a background in Journalism, in which I was able to work with press office. After two years as a Journalism intern, I improved my communication skills, especially writing
 
-In 2021, I started studying software development, looking to combine my communication skills with an old passion for technology. I have some projects in conjunction with the courses I've taken and I've been studying programming for about a year, including JavaScript, Python, Flutter, Cloud and Containers.
+In 2021, I started studying software development, looking to combine my communication skills with an old passion for technology. I have some projects in conjunction with the courses I've taken and I've been studying programming since, including JavaScript and Python.
 
 ## 💼 Reach me on:
 <div>
@@ -16,7 +16,6 @@ In 2021, I started studying software development, looking to combine my communic
 ## 👨‍💻 Technologies:
 <div>
 <img align="center" title="JavaScript" alt="JavaScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
-<img align="center" title="Flutter" alt="Flutter" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 <img align="center" title="Python" alt="Python" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img align="center" title="Docker" alt="Docker" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
 <img align="center" title="AWS" alt="AWS" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
