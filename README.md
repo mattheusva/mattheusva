@@ -11,8 +11,10 @@ Enthusiast about software development, cloud computing and data.
 
 ## 👨‍💻 Technologies:
 <div>
-<img align="center" title="JavaScript" alt="JavaScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
+<img align="center" title="JavaScript" alt="JavaScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img align="center" title="Python" alt="Python" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img align="center" title="Java" alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="center" title="SQL" alt="SQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="center" title="Docker" alt="Docker" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
 <img align="center" title="AWS" alt="AWS" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
