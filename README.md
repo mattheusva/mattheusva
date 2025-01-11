@@ -1,6 +1,6 @@
 ### Hey, I'm Matheus and welcome to my github!
 
-Enthusiast about software development, cloud computing and data.
+Enthusiast about software development, software quality and DevOps.
 
 ## 💼 Reach me on:
 <div>
