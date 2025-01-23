@@ -1,6 +1,7 @@
 ### Hey, I'm Matheus and welcome to my github!
 
-Enthusiast about software development, software quality and DevOps.
+Enthusiast about technology (sometimes).<br>
+Interested in quality assurance, DevOps, tech writing and software development in general.
 
 ## 💼 Reach me on:
 <div>
@@ -16,13 +17,6 @@ Enthusiast about software development, software quality and DevOps.
 <img align="center" title="Java" alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="center" title="SQL" alt="SQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="center" title="Docker" alt="Docker" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-<img align="center" title="AWS" alt="AWS" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
           
 <br>
-
-<div>
-<a href="https://github.com/mattheusva">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheusva&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattheusva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
