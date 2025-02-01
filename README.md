@@ -1,13 +1,13 @@
 # 👋 Hey there! Welcome to my GitHub! I'm Matheus.
 
 I’m a technology enthusiast (on most days).  
-Passionate about **QA**, **DevOps**, **technical writing**, and **software development**. 🚀  
+Passionate about **DevOps**, **technical writing**, and **software development and testing**. 🚀  
 
 ---
 
 ## 🛠️ What I bring to the table:  
 
-- **Core Expertise:** Python, JavaScript, Web Frameworks, and Test Automation.  
+- **Core Expertise:** Python, JavaScript, Web Frameworks and Linux.
 - **Proficient with:** Docker, Bash, and SQL Databases.  
 - **Strengths:** Crafting robust test suites, refactoring code, and writing clear, concise technical documentation.  
 
