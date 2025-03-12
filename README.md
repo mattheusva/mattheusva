@@ -1,7 +1,7 @@
 # 👋 Hey there! Welcome to my GitHub! I'm Matheus.
 
-I’m a data and technology enthusiast (on most days).  
-Passionate about building things with **python**.
+I’m a technology enthusiast (on most days).  
+interested in building things with **python**.
 
 ---
 
