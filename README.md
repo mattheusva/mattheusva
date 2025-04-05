@@ -1,13 +1,12 @@
 # 👋 Hey there! Welcome to my GitHub! I'm Matheus.
 
-I’m a technology enthusiast (on most days).  
-interested in building things with **python**.
+I’m a technology enthusiast (on most days). 
 
 ---
 
 ## 🛠️ What I bring to the table:  
 
-- **Core Expertise:** Python, Web APIs and Linux.
+- **Core Expertise:** Python, Linux, APIs, Web and Software.
 - **Proficient with:** Docker, Bash, and SQL Databases.  
 
 ---
