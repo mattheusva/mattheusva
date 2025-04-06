@@ -6,7 +6,7 @@ I’m a technology enthusiast (on most days).
 
 ## 🛠️ What I bring to the table:  
 
-- **Core Expertise:** Python, Linux, APIs, Web and Software.
+- **Core Expertise:** Python, Linux, APIs.
 - **Proficient with:** Docker, Bash, and SQL Databases.  
 
 ---
