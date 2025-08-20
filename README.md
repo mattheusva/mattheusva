@@ -2,7 +2,6 @@
 
 I’m a technology enthusiast (on most days). 
 
-I like to create and code things on the web.
  
 ---
 
